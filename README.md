@@ -4,12 +4,6 @@ This project showcases a website for a fictional chair shop located in Lisbon, w
 
 ---
 
-## 🌐 Live Demo
-
-Check out the live version of the website at: [Both Sann Chair Shop](https://bothsann.github.io/omnifood-webiste/)
-
----
-
 ## 🖼️ Screenshots
 
 ### Screenshot 1
