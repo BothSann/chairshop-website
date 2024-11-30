@@ -1,6 +1,6 @@
 # 🪑 Both Sann Chair Shop 🪑
 
-This project showcases a website for a fictional chair shop located in Lisbon, where we offer a variety of ergonomic, eco-friendly, and stylish chairs. The site includes sections about the brand, features of the chairs, customer testimonials, and best-selling products.💺✨
+This project showcases a simple website for a fictional chair shop located in Lisbon, where we offer a variety of ergonomic, eco-friendly, and stylish chairs. The site includes sections about the brand, features of the chairs, customer testimonials, and best-selling products.💺✨
 
 ---
 
